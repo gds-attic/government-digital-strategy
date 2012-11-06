@@ -1,5 +1,22 @@
 *"Publish, don't send."* - Mike Bracken
 
+# What is this?
+
+This repository contains the code and content behind the Government Digital
+Strategy site as seen online at [http://publications.cabinetoffice.gov.uk/digital/](http://publications.cabinetoffice.gov.uk/digital/ "Government Digital Strategy online publication")
+
+By following the instructions below anyone comfortable with using command line
+can set up a local, working, copy of the site, and view the content as it
+appears online.
+
+## Prerequisites
+
+Before attempting to install and run the application, the following prerequisites
+should be met:
+
+* node.js and npm are installed
+* Ruby (1.9+) is installed
+
 # Local Build Script
 
 Run the shell script:
