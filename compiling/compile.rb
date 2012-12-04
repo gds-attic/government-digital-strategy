@@ -210,14 +210,14 @@ class Compile
       number = $1
       title = $2
       slug = $2.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-      "{::options auto_ids='false' /}\n\n##<span class='title-index'>#{number}</span><span class='title-text'>#{title.strip}</span>\n{: .section-title ##{slug}}\n{::options auto_ids='true' /}"
+      "{::options auto_ids='false' /}\n\n##<span class='title-index'>#{number}</span> <span class='title-text'>#{title.strip}</span>\n{: .section-title ##{slug}}\n{::options auto_ids='true' /}"
     }
 
     contents.gsub!(/##Annex ([0-9]) - (.+)/) {
       number = $1
       title = $2
       slug = $2.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-      "{::options auto_ids='false' /}\n\n##<span class='title-index'>Annex #{number}</span><span class='title-text'>#{title}</span>\n{: .section-title ##{slug}}\n{::options auto_ids='true' /}"
+      "{::options auto_ids='false' /}\n\n##<span class='title-index'>Annex #{number}</span> <span class='title-text'>#{title}</span>\n{: .section-title ##{slug}}\n{::options auto_ids='true' /}"
     }
 
     #add links to figures
