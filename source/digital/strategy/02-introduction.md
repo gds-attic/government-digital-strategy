@@ -47,3 +47,15 @@ These strategies will be published by the end of 2012, in time to
 influence departments’ 2013/14 planning process. They will set the
 framework for service transformation over the lifetime of the next
 spending review.
+
+<div class="media-player">
+<figure class="media-player-wrapper">
+  <p><a href="http://www.youtube.com/watch?v=3tnvttt_1TE" rel="external">Watch on YouTube</a>
+  <a class="captions" href="transcript.xml">Captions</a></p>
+</figure>
+</div>
+<p><a href="http://www.youtube.com/watch?v=3tnvttt_1TE" rel="external">Watch on YouTube</a></p>
+
+Watch Tim O’Reilly, the founder and CEO of O'Reilly Media, talk about the
+importance of focusing on user needs and how the Government Digital Strategy
+is “inspiring” because of its focus on user centred design.

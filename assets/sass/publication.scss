@@ -148,6 +148,14 @@
   .mc-chart {
     @include left-margin;
   }
+  .media-player {
+    @include left-margin;
+    margin-bottom: 80px;
+    height: 500px;
+    .media-player-wrapper {
+      margin: 0;
+    }
+  }
   >.pull{
     border-top: 5px solid $colour-scheme;
     color: $colour-scheme;
