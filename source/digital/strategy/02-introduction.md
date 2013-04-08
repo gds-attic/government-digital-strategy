@@ -2,7 +2,7 @@
 
 This strategy contains 14 actions the government will take to
 become digital by default. Digital by default means digital services
-which are so straightforward and convenient that all those who can use
+that are so straightforward and convenient that all those who can use
 digital services will choose to do so, while those who can’t are not
 excluded.
 
@@ -29,8 +29,8 @@ Digital Champion in 2010.
 
 In his foreword to the [Civil Service Reform Plan](http://www.civilservice.gov.uk/reform), Minister for the Cabinet Office Francis Maude said:
 
-> “Central Government where possible must become a digital organisation.
-These days the best service organisations deliver online everything that can be
+> “Central Government, where possible, must become a digital organisation.
+These days, the best service organisations deliver online everything that can be
 delivered online.
 This cuts their costs dramatically and allows access to information and
 services at times and in ways convenient to the users rather than the
