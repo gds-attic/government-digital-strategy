@@ -288,7 +288,7 @@ available in Annex 3.
 
 The majority of the benefits will be achieved by the 7 transactional
 departments. Therefore we will focus on redesigning their services as a
-first priority, with three ‘exemplar’ services in each of these
+first priority, with 3 ‘exemplar’ services in each of these
 departments receiving end to end redesign by March 2015.
 
 Service redesign and prototyping work for these exemplar services will
@@ -556,7 +556,7 @@ In 2009, [the public sector spent around 1% of GDP on IT](http://webarchive.nati
 currently rely on a few, large systems integrators to supply their
 digital requirements. They can lack the in-house expertise to act as a
 challenging and informed client, and this has resulted in expensive and
-inflexible long-term contracts which do not support delivery of services
+inflexible long-term contracts that do not support delivery of services
 likely to meet the forthcoming digital service standard.
 
 However, the UK has a burgeoning digital technology sector with a wide
@@ -656,7 +656,7 @@ detailed data for Service Managers.
 
 *“A letter shouldn't have to be on paper”*
 
-####Action 12: Cabinet Office will continue to work with departments to remove legislative barriers which unecessarily prevent the development of straightforward and convenient digital services
+####Action 12: Cabinet Office will continue to work with departments to remove legislative barriers that unecessarily prevent the development of straightforward and convenient digital services
 
 -   departments will identify existing legislative barriers in their departmental digital strategies
 
