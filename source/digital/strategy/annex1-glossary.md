@@ -4,7 +4,7 @@ Transactional services
 : Transactional services include interactions with
 the government, from booking driving tests and filing tax returns to
 setting up a company and applying for a public house licence: everything
-which involves sharing information, requesting services, buying goods,
+that involves sharing information, requesting services, buying goods,
 asking for permission, or paying money.
 
 Information services
@@ -32,7 +32,7 @@ subsystems function together.
 
 Small and Medium Sized Enterprises
 : Small and Medium Sized Enterprises (or SMEs) are defined by the European Commission as enterprises which
-employ fewer than 250 persons and which have an annual turnover not
+employ fewer than 250 persons and that have an annual turnover not
 exceeding €50 million, and/or an annual balance sheet total not exceeding €43 million.
 
 Agile

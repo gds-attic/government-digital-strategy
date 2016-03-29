@@ -45,7 +45,7 @@ rely on digitised versions of pre-digital business processes, layered on
 top of legacy IT systems, some of which are over 30 years old. They were not
 designed with a digital service in mind, being built to replicate paper
 forms and processes rather than taking advantage of opportunities to
-pre-populate or respond to user’s selections. They have outdated back-end systems which prevent effective data sharing, and/or they have
+pre-populate or respond to user’s selections. They have outdated back-end systems that prevent effective data sharing, and/or they have
 long-term contracts locked into expensive vendors making changes to
 services costly and slow.
 
@@ -73,14 +73,14 @@ The [Civil Service Reform Plan](http://www.civilservice.gov.uk/reform) acknowled
 right capability and skills to design, communicate and deliver the
 high-quality digital services we require. This digital strategy aligns
 with the Civil Service Capabilities Plan; both will be woven into
-departments’ own strategic planning, including their new Improvement
-Plans.
+departments’ own strategic planning, including their new improvement
+plans.
 
 There has been an over-reliance on a handful of large systems
 integrators, [referred to by the Public Administration Select Committee
 (PASC) as an ‘oligopoly'](http://www.parliament.uk/business/committees/committees-a-z/commons-select/public-administration-select-committee/news/report-on-Government-it-published/). As a result, the civil service does not have
 the necessary depth of understanding and ownership of our digital
-channels to act as an “intelligent client”. This makes services less
+channels to act as an "intelligent client”. This makes services less
 efficient and less effective for users.
 
 There are also weaknesses in the consistency, timeliness, accuracy and

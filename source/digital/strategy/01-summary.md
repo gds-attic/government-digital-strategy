@@ -18,13 +18,13 @@ default. It fulfils the commitment we made in the [Civil Service Reform Plan](ht
 
 By digital by default, we mean digital services that are so
 straightforward and convenient that all those who can use them will
-choose to do so whilst those who can’t are not excluded.
+choose to do so, whilst those who can’t are not excluded.
 
 We estimate that moving services from offline to digital channels will
 save between £1.7 and £1.8 billion a year.
 
 Government is improving the way it provides information by moving to a
-single website, [GOV.UK](https://www.gov.uk/). Transactional services now present the biggest
+single website: [GOV.UK](https://www.gov.uk/). Transactional services now present the biggest
 opportunity to save people time and save the government money.
 
 People will only choose to use government services digitally if they are
@@ -33,7 +33,7 @@ UK population is online but most people rarely use online government services.
 
 The government provides more than 650 transactional services. There is
 only a handful of these services where a significant majority of people who could use the
-online option do. Many have a digital option, but few people use it.
+online option, do. Many have a digital option, but few people use it.
 Half of these don’t offer a digital option at all.
 
 We will:
